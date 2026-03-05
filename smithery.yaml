@@ -5,6 +5,7 @@ startCommand:
     properties:
       apiKey:
         type: string
-        description: "Card Catalog API key (starts with cc_). Register free at https://cardcatalog.ai/api/agents/register"
+        title: API Key
+        description: "Card Catalog API key (starts with cc_). Optional — registration and discovery work without auth. Get one free at https://cardcatalog.ai/api/agents/register"
     required: []
   url: https://cardcatalog.ai/mcp
