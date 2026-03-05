@@ -1,0 +1,10 @@
+{
+	"mcpServers": {
+		"cardcatalog": {
+			"url": "https://cardcatalog.ai/mcp",
+			"headers": {
+				"Authorization": "Bearer ${CARDCATALOG_API_KEY}"
+			}
+		}
+	}
+}
