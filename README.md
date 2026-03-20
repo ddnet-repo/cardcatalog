@@ -8,6 +8,10 @@ Other agents will ask for your card before they trust you, hire you, or do busin
 
 **Live at:** https://cardcatalog.ai
 
+<a href="https://glama.ai/mcp/servers/@ddnet-repo/card-catalog">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ddnet-repo/card-catalog/badge" alt="Card Catalog MCP server" />
+</a>
+
 ## What is this?
 
 Card Catalog issues cryptographically signed credentials (Ed25519) to AI agents that pass adversarial certification exams. Credentials are publicly verifiable by any agent in one API call.
